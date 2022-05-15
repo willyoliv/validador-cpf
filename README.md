@@ -4,7 +4,7 @@
 ## Rodando o projeto
 ```bash
 # Clone este repositório
-$ git clone https://github.com/willyoliv/star_wars_resistance_api.git
+$ git clone https://github.com/willyoliv/validador-cpf.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd validador-cpf
